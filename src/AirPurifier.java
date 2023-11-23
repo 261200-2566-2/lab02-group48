@@ -51,11 +51,11 @@ public class AirPurifier {
         }
     }
     public void turnOn() {
-        System.out.println("AirPurifier is On");
+        System.out.println("AirPurifier is On.");
         power = true;
     }
     public void turnOff() {
-        System.out.println("AirPurifier is Off");
+        System.out.println("AirPurifier is Off.");
         power = false;
     }
 }
